@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini00bresgoog_0179.png"; bbox 0 0 846 1256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 158 84 782 121">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 158 84 782 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 158 84 782 121; baseline 0.003 -9"><span class='ocrx_word' id='word_1_1' title='bbox 158 84 244 121; x_wconf 51' lang='lat' dir='ltr'>&lt;⁶5⁴wa</span> <span class='ocrx_word' id='word_1_2' title='bbox 253 91 386 112; x_wconf 51' lang='lat' dir='ltr'>{fv-„dmm</span> <span class='ocrx_word' id='word_1_3' title='bbox 623 90 679 114; x_wconf 35' lang='grc' dir='ltr'>ἕηκε.</span> <span class='ocrx_word' id='word_1_4' title='bbox 700 95 782 114; x_wconf 75' lang='lat' dir='ltr'>cxxxv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 120 138 782 996">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 120 138 782 996">
+     <span class='ocr_line' id='line_1_2' title="bbox 120 138 782 996; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 120 138 782 996; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 299 1086 633 1121">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 299 1086 633 1121">
+     <span class='ocr_line' id='line_1_3' title="bbox 299 1086 633 1121; baseline 0.003 -10"><span class='ocrx_word' id='word_1_6' title='bbox 299 1087 404 1121; x_wconf 67' lang='lat' dir='ltr'>Pnlqporus</span> <span class='ocrx_word' id='word_1_7' title='bbox 419 1087 511 1111; x_wconf 74' lang='lat' dir='ltr'><strong>imberbis</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 529 1086 589 1121; x_wconf 61' lang='lat' dir='ltr'>[Eun]</span> <span class='ocrx_word' id='word_1_9' title='bbox 607 1087 633 1112; x_wconf 77' lang='lat' dir='ltr'>Fr.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 153 1129 750 1152">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 153 1129 750 1152">
+     <span class='ocr_line' id='line_1_4' title="bbox 153 1129 750 1152; baseline 0.003 -8"><span class='ocrx_word' id='word_1_10' title='bbox 153 1129 228 1145; x_wconf 57' lang='lat' dir='ltr'><em>Bau-«101.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 235 1133 259 1145; x_wconf 60' lang='lat' dir='ltr'>‹1‘1v</span> <span class='ocrx_word' id='word_1_12' title='bbox 646 1133 669 1146; x_wconf 58' lang='lat' dir='ltr'>ha.</span> <span class='ocrx_word' id='word_1_13' title='bbox 673 1133 683 1145; x_wconf 75' lang='grc'><em>6</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 686 1133 729 1152; x_wconf 55' lang='lat' dir='ltr'>lappa!</span> <span class='ocrx_word' id='word_1_15' title='bbox 734 1131 750 1144; x_wconf 65' lang='lat' dir='ltr'>st</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

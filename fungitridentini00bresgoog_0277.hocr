@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini00bresgoog_0277.png"; bbox 0 0 846 1256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 630 75 790 101">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 630 75 790 101">
+     <span class='ocr_line' id='line_1_1' title="bbox 630 75 790 101; baseline 0.013 -2"><span class='ocrx_word' id='word_1_1' title='bbox 630 75 683 101; x_wconf 55' lang='grc' dir='ltr'>Καὶ..</span> <span class='ocrx_word' id='word_1_2' title='bbox 692 75 790 101; x_wconf 71' lang='lat' dir='ltr'>CLXXXIV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 488 0 1135">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 488 0 1135">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 488 0 1135"><span class='ocrx_word' id='word_1_3' title='bbox 0 488 0 1135; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 204 1054 809 1107">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 204 1054 809 1107">
+     <span class='ocr_line' id='line_1_3' title="bbox 204 1054 809 1107; baseline 0.01 -14"><span class='ocrx_word' id='word_1_4' title='bbox 204 1065 276 1094; x_wconf 67' lang='lat' dir='ltr'><strong>[ltidun</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 288 1063 295 1102; x_wconf 74' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_6' title='bbox 305 1065 430 1103; x_wconf 73' lang='lat' dir='ltr'>Pseudntis]</span> <span class='ocrx_word' id='word_1_7' title='bbox 438 1066 552 1097; x_wconf 69' lang='lat' dir='ltr'><strong>rudiculum</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 560 1067 627 1107; x_wconf 64' lang='lat' dir='ltr'><strong>[Suws]</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 642 1055 712 1098; x_wconf 43' lang='lat' dir='ltr'><strong>fluusslzg</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 722 1062 768 1091; x_wconf 58' lang='lat'>&#39;¹33²</span> <span class='ocrx_word' id='word_1_11' title='bbox 779 1054 809 1091; x_wconf 47' lang='lat'><strong>{¹¹³⁵}</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 647 1127 773 1145">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 647 1127 773 1145">
+     <span class='ocr_line' id='line_1_4' title="bbox 647 1127 773 1145; baseline 0.008 -4"><span class='ocrx_word' id='word_1_12' title='bbox 647 1127 667 1141; x_wconf 73' lang='lat' dir='ltr'><strong>hu</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 673 1128 727 1145; x_wconf 64' lang='grc' dir='ltr'><strong>ιλιι-,μι</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 731 1127 773 1142; x_wconf 65' lang='lat' dir='ltr'>M</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

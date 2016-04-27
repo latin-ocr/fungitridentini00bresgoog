@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini00bresgoog_0143.png"; bbox 0 0 846 1256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 76 737 117">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 106 76 737 117">
+     <span class='ocr_line' id='line_1_1' title="bbox 106 76 737 117; baseline -0.008 -12"><span class='ocrx_word' id='word_1_1' title='bbox 106 80 187 117; x_wconf 47' lang='lat' dir='ltr'><strong><em>&amp;W</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 194 80 324 104; x_wconf 53' lang='lat' dir='ltr'><strong><em>&amp;mmm-v</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 606 76 656 101; x_wconf 56' lang='grc' dir='ltr'><strong><em>ἕω,</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 670 78 737 101; x_wconf 70' lang='lat' dir='ltr'><strong><em>GKVH</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 222 156 655 944">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 222 156 655 944">
+     <span class='ocr_line' id='line_1_2' title="bbox 222 156 655 944; baseline 0 312"><span class='ocrx_word' id='word_1_5' title='bbox 222 156 655 944; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 66 1079 736 1142">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 66 1079 736 1142">
+     <span class='ocr_line' id='line_1_3' title="bbox 248 1079 562 1119; baseline -0.01 -10"><span class='ocrx_word' id='word_1_6' title='bbox 248 1081 337 1119; x_wconf 79' lang='lat' dir='ltr'>Inncyhe</span> <span class='ocrx_word' id='word_1_7' title='bbox 359 1081 491 1116; x_wconf 60' lang='lat' dir='ltr'>lanuginosa</span> <span class='ocrx_word' id='word_1_8' title='bbox 518 1079 562 1106; x_wconf 64' lang='grc' dir='ltr'><strong><em>ΗυΠι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 66 1121 736 1142; baseline -0.009 -1"><span class='ocrx_word' id='word_1_9' title='bbox 66 1139 69 1142; x_wconf 86' lang='grc'>.</span> <span class='ocrx_word' id='word_1_10' title='bbox 109 1125 191 1142; x_wconf 59' lang='lat' dir='ltr'><strong><em>Eranam</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 200 1127 226 1140; x_wconf 55' lang='grc' dir='ltr'><strong><em>κει.</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 600 1121 736 1142; x_wconf 45' lang='lat' dir='ltr'><strong><em>&amp;mappulam</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

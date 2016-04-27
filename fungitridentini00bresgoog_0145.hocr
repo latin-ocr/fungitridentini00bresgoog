@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini00bresgoog_0145.png"; bbox 0 0 846 1256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 105 74 739 110">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 105 74 739 110">
+     <span class='ocr_line' id='line_1_1' title="bbox 105 74 739 110; baseline -0.003 -10"><span class='ocrx_word' id='word_1_1' title='bbox 105 76 186 110; x_wconf 50' lang='lat' dir='ltr'>ffmp</span> <span class='ocrx_word' id='word_1_2' title='bbox 195 74 325 99; x_wconf 55' lang='lat' dir='ltr'>mamam</span> <span class='ocrx_word' id='word_1_3' title='bbox 617 75 663 99; x_wconf 62' lang='grc' dir='ltr'>ω.</span> <span class='ocrx_word' id='word_1_4' title='bbox 671 77 739 99; x_wconf 75' lang='lat' dir='ltr'>nxvm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 103 161 732 945">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 103 161 732 945">
+     <span class='ocr_line' id='line_1_2' title="bbox 103 161 732 945; baseline 0 311"><span class='ocrx_word' id='word_1_5' title='bbox 103 161 732 945; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 242 1074 741 1140">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 242 1074 741 1140">
+     <span class='ocr_line' id='line_1_3' title="bbox 242 1074 607 1114; baseline -0.003 -11"><span class='ocrx_word' id='word_1_6' title='bbox 242 1074 330 1113; x_wconf 84' lang='lat' dir='ltr'>Inocyhe</span> <span class='ocrx_word' id='word_1_7' title='bbox 353 1075 467 1112; x_wconf 80' lang='lat' dir='ltr'>decipiens</span> <span class='ocrx_word' id='word_1_8' title='bbox 493 1075 572 1102; x_wconf 53' lang='lat' dir='ltr'>Brenn.</span> <span class='ocrx_word' id='word_1_9' title='bbox 578 1086 607 1114; x_wconf 76' lang='lat' dir='ltr'>sp.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 600 1120 741 1140; baseline 0.007 -6"><span class='ocrx_word' id='word_1_10' title='bbox 600 1120 741 1140; x_wconf 55' lang='lat' dir='ltr'>maweu-em</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

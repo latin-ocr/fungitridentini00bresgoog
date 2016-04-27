@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungitridentini00bresgoog_0165.png"; bbox 0 0 846 1256; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 69 766 112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 69 766 112">
+     <span class='ocr_line' id='line_1_1' title="bbox 131 69 766 112; baseline -0.002 -10"><span class='ocrx_word' id='word_1_1' title='bbox 131 79 209 112; x_wconf 45' lang='grc' dir='ltr'><strong>ὄψῃ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 224 79 348 103; x_wconf 50' lang='lat' dir='ltr'><strong>sudum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 394 69 396 71; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 619 77 676 102; x_wconf 56' lang='grc' dir='ltr'><strong>σαε.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 685 80 766 102; x_wconf 83' lang='lat' dir='ltr'>cxxvm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 154 142 739 907">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 154 142 739 907">
+     <span class='ocr_line' id='line_1_2' title="bbox 154 142 739 907; baseline 0 349"><span class='ocrx_word' id='word_1_6' title='bbox 154 142 739 907; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 130 1076 778 1142">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 130 1076 778 1142">
+     <span class='ocr_line' id='line_1_3' title="bbox 253 1076 680 1106; baseline 0 -5"><span class='ocrx_word' id='word_1_7' title='bbox 253 1077 337 1102; x_wconf 69' lang='lat' dir='ltr'>Russula</span> <span class='ocrx_word' id='word_1_8' title='bbox 344 1077 410 1102; x_wconf 67' lang='lat' dir='ltr'>lilacea</span> <span class='ocrx_word' id='word_1_9' title='bbox 418 1078 463 1106; x_wconf 66' lang='lat' dir='ltr'><strong>Quffl.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 470 1085 502 1101; x_wconf 62' lang='lat' dir='ltr'><strong>van</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 510 1078 617 1102; x_wconf 74' lang='lat' dir='ltr'>cfflu&#39;color</span> <span class='ocrx_word' id='word_1_12' title='bbox 627 1076 680 1102; x_wconf 81' lang='lat' dir='ltr'>Bres.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 130 1120 778 1142; baseline -0.002 -6"><span class='ocrx_word' id='word_1_13' title='bbox 130 1121 206 1136; x_wconf 64' lang='lat' dir='ltr'><strong>Bra-dd·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 211 1121 237 1136; x_wconf 73' lang='lat' dir='ltr'><strong>del.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 631 1120 658 1136; x_wconf 70' lang='lat' dir='ltr'><em>bit.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 662 1121 725 1142; x_wconf 63' lang='lat' dir='ltr'><em>alippa</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 728 1120 778 1136; x_wconf 61' lang='lat' dir='ltr'><em>bento</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
